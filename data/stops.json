@@ -1,0 +1,260 @@
+[
+  {
+    "stop_id": "CTU02",
+    "stop_name": "CITE U",
+    "stop_lat": 49.1199905,
+    "stop_lon": 6.1596813
+  },
+  {
+    "stop_id": "CTU01",
+    "stop_name": "CITE U",
+    "stop_lat": 49.1203175,
+    "stop_lon": 6.1595642
+  },
+  {
+    "stop_id": "SAU",
+    "stop_name": "SAULCY",
+    "stop_lat": 49.1205807,
+    "stop_lon": 6.1646115
+  },
+  {
+    "stop_id": "SAU02",
+    "stop_name": "SAULCY",
+    "stop_lat": 49.1204294,
+    "stop_lon": 6.1645474
+  },
+  {
+    "stop_id": "MOYEN",
+    "stop_name": "MOYEN-PONT",
+    "stop_lat": 49.1192548,
+    "stop_lon": 6.170535
+  },
+  {
+    "stop_id": "REPUB",
+    "stop_name": "REPUBLIQUE",
+    "stop_lat": 49.1150431,
+    "stop_lon": 6.1731711
+  },
+  {
+    "stop_id": "REP02",
+    "stop_name": "REPUBLIQUE",
+    "stop_lat": 49.1158368,
+    "stop_lon": 6.1728755
+  },
+  {
+    "stop_id": "ROIM1",
+    "stop_name": "ROI GEORGE",
+    "stop_lat": 49.1106511,
+    "stop_lon": 6.1716122
+  },
+  {
+    "stop_id": "ROIGE",
+    "stop_name": "ROI GEORGE.",
+    "stop_lat": 49.1107513,
+    "stop_lon": 6.1715635
+  },
+  {
+    "stop_id": "GAR02",
+    "stop_name": "GARE",
+    "stop_lat": 49.1103667,
+    "stop_lon": 6.177612
+  },
+  {
+    "stop_id": "GAR01",
+    "stop_name": "GARE",
+    "stop_lat": 49.1103667,
+    "stop_lon": 6.177612
+  },
+  {
+    "stop_id": "POM01",
+    "stop_name": "CENTRE POMPIDOU METZ",
+    "stop_lat": 49.1091015,
+    "stop_lon": 6.1808787
+  },
+  {
+    "stop_id": "POM02",
+    "stop_name": "CENTRE POMPIDOU METZ",
+    "stop_lat": 49.1091015,
+    "stop_lon": 6.1808787
+  },
+  {
+    "stop_id": "SEI01",
+    "stop_name": "SEILLE",
+    "stop_lat": 49.1117398,
+    "stop_lon": 6.1859067
+  },
+  {
+    "stop_id": "SEI02",
+    "stop_name": "SEILLE",
+    "stop_lat": 49.1116483,
+    "stop_lon": 6.185627
+  },
+  {
+    "stop_id": "LEG",
+    "stop_name": "HOPITAL LEGOUEST",
+    "stop_lat": 49.1117718,
+    "stop_lon": 6.1925018
+  },
+  {
+    "stop_id": "LEG01",
+    "stop_name": "HOPITAL LEGOUEST",
+    "stop_lat": 49.1117026,
+    "stop_lon": 6.1920589
+  },
+  {
+    "stop_id": "ALC02",
+    "stop_name": "FELIX ALCAN",
+    "stop_lat": 49.1127296,
+    "stop_lon": 6.1977697
+  },
+  {
+    "stop_id": "ALC01",
+    "stop_name": "FELIX ALCAN",
+    "stop_lat": 49.1125757,
+    "stop_lon": 6.1991583
+  },
+  {
+    "stop_id": "CIM",
+    "stop_name": "CIMETIERE DE L'EST",
+    "stop_lat": 49.1096323,
+    "stop_lon": 6.2037533
+  },
+  {
+    "stop_id": "CIM01",
+    "stop_name": "CIMETIERE DE L'EST",
+    "stop_lat": 49.1098811,
+    "stop_lon": 6.2033644
+  },
+  {
+    "stop_id": "BEL01",
+    "stop_name": "BELLETANCHE",
+    "stop_lat": 49.11065,
+    "stop_lon": 6.2106355
+  },
+  {
+    "stop_id": "BEL02",
+    "stop_name": "BELLETANCHE",
+    "stop_lat": 49.11065,
+    "stop_lon": 6.2106355
+  },
+  {
+    "stop_id": "PROVENC1",
+    "stop_name": "PROVENCE",
+    "stop_lat": 49.1128354,
+    "stop_lon": 6.215733
+  },
+  {
+    "stop_id": "PROVENC2",
+    "stop_name": "PROVENCE",
+    "stop_lat": 49.1127954,
+    "stop_lon": 6.2158813
+  },
+  {
+    "stop_id": "GUY",
+    "stop_name": "GUYENNE",
+    "stop_lat": 49.1114452,
+    "stop_lon": 6.2189228
+  },
+  {
+    "stop_id": "GUY01",
+    "stop_name": "GUYENNE",
+    "stop_lat": 49.1114452,
+    "stop_lon": 6.2189228
+  },
+  {
+    "stop_id": "BRG01",
+    "stop_name": "HENRI BERGSON",
+    "stop_lat": 49.1085547,
+    "stop_lon": 6.2206758
+  },
+  {
+    "stop_id": "BRG02",
+    "stop_name": "HENRI BERGSON",
+    "stop_lat": 49.1085547,
+    "stop_lon": 6.2206758
+  },
+  {
+    "stop_id": "GRA01",
+    "stop_name": "GRAHAM BELL",
+    "stop_lat": 49.1050999,
+    "stop_lon": 6.2233392
+  },
+  {
+    "stop_id": "GRA02",
+    "stop_name": "GRAHAM BELL",
+    "stop_lat": 49.1050999,
+    "stop_lon": 6.2233392
+  },
+  {
+    "stop_id": "ARAGO576",
+    "stop_name": "FRANCOIS ARAGO C",
+    "stop_lat": 49.10137,
+    "stop_lon": 6.2241762
+  },
+  {
+    "stop_id": "ARAGO577",
+    "stop_name": "FRANCOIS ARAGO C",
+    "stop_lat": 49.10137,
+    "stop_lon": 6.2241762
+  },
+  {
+    "stop_id": "ART01",
+    "stop_name": "ARTS ET METIERS",
+    "stop_lat": 49.0965125,
+    "stop_lon": 6.2261213
+  },
+  {
+    "stop_id": "ART02",
+    "stop_name": "ARTS ET METIERS",
+    "stop_lat": 49.0965125,
+    "stop_lon": 6.2261213
+  },
+  {
+    "stop_id": "ECO02",
+    "stop_name": "GRANDES ECOLES",
+    "stop_lat": 49.0933729,
+    "stop_lon": 6.2301052
+  },
+  {
+    "stop_id": "ECO01",
+    "stop_name": "GRANDES ECOLES",
+    "stop_lat": 49.0933726,
+    "stop_lon": 6.2301189
+  },
+  {
+    "stop_id": "EXP02",
+    "stop_name": "P+R FOIRE EXPO",
+    "stop_lat": 49.0914747,
+    "stop_lon": 6.2314256
+  },
+  {
+    "stop_id": "EXP01",
+    "stop_name": "P+R FOIRE EXPO",
+    "stop_lat": 49.0914837,
+    "stop_lon": 6.2314261
+  },
+  {
+    "stop_id": "HMERC",
+    "stop_name": "HOPITAL MERCY",
+    "stop_lat": 49.085837,
+    "stop_lon": 6.2437814
+  },
+  {
+    "stop_id": "MER",
+    "stop_name": "HOPITAL MERCY",
+    "stop_lat": 49.0845912,
+    "stop_lon": 6.2420937
+  },
+  {
+    "stop_id": "MAT",
+    "stop_name": "MATERNITE",
+    "stop_lat": 49.0821269,
+    "stop_lon": 6.2388709
+  },
+  {
+    "stop_id": "MAT01",
+    "stop_name": "MATERNITE",
+    "stop_lat": 49.0820902,
+    "stop_lon": 6.2387316
+  }
+]
